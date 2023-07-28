@@ -9,8 +9,12 @@ The DailyCompass application is built using HTML, CSS, and JavaScript. It utiliz
 - Save events to local storage for persistent data storage.
 - Automatically update the color coding every minute to handle changes in time.
 
+## Usage 
+Use the provided link:
+[The Daily Compass](https://gregfjr.github.io/DailyCompass/)
+
 # Screenshot 
-![Screenshot](./assets/img/Screenshot%202023-07-28%20at%2010.52.39%20AM.png)
+![Screenshot](./assets/img/Screenshot%202023-07-28%20at%2011.31.26%20AM.png)
 
 
 # Screenshot localStorage
